@@ -5,7 +5,7 @@
   <h1><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVnZGk5bmJnZWl6ZXFvZmg1bm96azJoeTNsbDh5YmRoZHNldDYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2tzon8OCC7BqmY/giphy.gif" width="200px"></h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Rzz.py;I+am+from+Brazil;And+I+study+systems+development+at+ETEC+SESI+FIAP;And+i+like+ethical+hacking+at+the+free+times+hehe;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Rzz.py;I+am+from+Brazil;And+I+study+systems+development+at+ETEC+SESI+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ronaldozx&show_icons=true&count_private=true&hide_border=true&title_color=FFFF&icon_color=FFFF&text_color=FFFF&bg_color=0d1117" alt="Rzz.py github stats" /> 
